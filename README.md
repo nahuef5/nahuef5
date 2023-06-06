@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Nahuel Funes</h1>
-<h3 align="center">Soy desarrollador backend con Java. Hace poco más de un año que estudio programación. En mi perfíl encontrarás aplicaciones en las que trabajo para desarrollar mis skills, mientras busco oportunidades para colaborar en proyectos más grandes con un equipo.</h3>
+<h1 align="center">Hola 👋, me llamo Nahuel Funes y soy de Argentina.</h1>
+<h3 align="center">Soy desarrollador backend con Java. Hace poco más de un año que estudio programación. En mi perfíl encontrarás aplicaciones en las que trabajo para desarrollar mis skills. Y busco oportunidades para colaborar en proyectos más grandes con un equipo de trabajo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuef5&label=Profile%20views&color=0e75b6&style=flat" alt="nahuef5" /> </p>
 
